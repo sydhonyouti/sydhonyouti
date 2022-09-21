@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sydhonyouti
 
-- 🌱 I’m currently learning Computer Science at Harding University
+- 🌱 I’m currently a Computer Science major at Harding University
 
 - 👩🏽‍💻💻 The different uploads are different projects I have worked on as a student at Harding
 
